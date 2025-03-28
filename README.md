@@ -1,1 +1,1 @@
-# For fun project
+# For fun project - NO AI
